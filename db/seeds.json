@@ -1,0 +1,60 @@
+{
+  "peppers": [
+    {
+      "id": 1,
+      "name": "Habanero",
+      "image": "https://hosstools.com/wp-content/uploads/2021/01/helios-habanero-pepper.jpg",
+      "about": 8
+    },
+    {
+      "id": 2,
+      "name": "Jalapeno",
+      "image": "https://cdn.shopify.com/s/files/1/0915/1060/products/GiantJalapeno_800x.jpg?v=1620229357",
+      "about": 14
+    },
+    {
+      "id": 3,
+      "name": "Carolina Reaper",
+      "image": "https://www.worldseedsupply.com/wp-content/uploads/2015/10/Carolina-Reaper-scaled.jpg",
+      "about": 3
+    },
+    {
+      "id": 4,
+      "name": "Cayenne",
+      "image": "https://marvel-b1-cdn.bc0a.com/f00000000218560/www.seedway.com/app/uploads/2019/05/iberia-9-600x501.jpg",
+      "about": 4
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "image": "https://victorygardeners.com/wp-content/uploads/2017/03/banana-pepper-e1616729195936.jpg",
+      "about": 1
+    },
+    {
+      "id": 6,
+      "name": "Anaheim",
+      "image": "https://victorygardeners.com/wp-content/uploads/2017/03/Anaheim-Chili.png",
+      "about": 2
+    },
+    {
+      "id": 7,
+      "name": "Poblano",
+      "image": "https://thekitchencommunity.org/wp-content/uploads/2021/06/Substitutes-For-Poblano-Peppers-That-Still-Pack-A-Punch.jpg",
+      "about": 0
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Moruga",
+      "image": "https://cdn.shopify.com/s/files/1/0915/1060/products/Chocolate-Trinidad-Moruga-Scorpion-hot-pepper-pepper-joes_600x.jpg?v=1572288518",
+      "about": -2
+    }
+  ],
+  "emailList": [
+    {
+      "id": 1,
+      "name": "",
+      "email": ""
+    }
+    
+  ]
+}

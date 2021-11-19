@@ -1,0 +1,60 @@
+{
+  "peppers": [
+    {
+      "id": 1,
+      "name": "Habanero",
+      "image": "https://hosstools.com/wp-content/uploads/2021/01/helios-habanero-pepper.jpg",
+      "about": "A habanero (pronounced ha-ba-NAIR-o) pepper is a small, hot, chile pepper. It's grown in Mexico and other parts of Latin America as well as in the United States. The habanero pepper is short and squat with thin skin and is usually an orange or red color. Since it's extremely hot, a habanero pepper is usually not eaten whole. Instead, it's widely used in making salsas, sauces, and salad dressings, and it's used as an ingredient in bottled hot sauce. It's sometimes mistaken for the Scotch bonnet pepper that it resembles and which is equally hot."
+    },
+    {
+      "id": 2,
+      "name": "Jalapeno",
+      "image": "https://cdn.shopify.com/s/files/1/0915/1060/products/GiantJalapeno_800x.jpg?v=1620229357",
+      "about": "A jalapeno pepper is a fruit of the Capsicum pod type. It is a medium sized hot pepper when compared to other chili peppers, measuring an average of 2-3.5 inches in length but growing up to 6 inches long or longer. While originating in Mexico, it is now grown worldwide for it’s popular flavor and mild heat level, which averages around 5,000 Scoville Heat Units. That is hot, but not too hot. You’ll find them served when green, but if you leave the jalapeno pepper on the plant long enough, it will turn red. The red variety are just as delicious as the green jalapeno pepper, though a touch sweeter."
+    },
+    {
+      "id": 3,
+      "name": "Carolina Reaper",
+      "image": "https://www.worldseedsupply.com/wp-content/uploads/2015/10/Carolina-Reaper-scaled.jpg",
+      "about": "This is an extremely hot chili pepper developed by a grower named Ed Currie, and is currently the hottest pepper in the world. It is also called HP22B pepper. As of 2013 it was over 7 generations old. Ed created this chili pepper plant variety by crossing a Pakistani Naga with a Red Habanero type from St Vincents Island in the West Indies. It was bred in South Carolina and tested at over 2.2 Million Scoville Heat Units (with an aveerage of 1,641,000 SHU) by Winthrop University. The flavor is fruity and similar to a 7 Pot chili pepper. The Carolina Reaper can grow to a height over 4 feet tall. It is currently listed at the hottest pepper in the world by the Guinness World Records."
+    },
+    {
+      "id": 4,
+      "name": "Cayenne",
+      "image": "https://marvel-b1-cdn.bc0a.com/f00000000218560/www.seedway.com/app/uploads/2019/05/iberia-9-600x501.jpg",
+      "about": "The cayenne pepper is a thin chili pepper, green to red in color, about 2 to 5 inches long. The “cayenne pepper” spice you use mostly in pizza restaurants is the dried, ground version of this pepper. It belongs to the nightshade family of flowering plants and are related to bell peppers and jalapenos. The cayenne is a bright red chili ranging from 2-5 inches long and about 1/2 inch in diameter. Cayenne chilies are usually sold as a powder, as cayenne pepper. The word cayenne comes from the city of Cayenne in French Guiana. Cayenne is great in soups and sauces, on pizzas, as well as over meats and seafoods. Keep it on the table in a shaker as an alternative to salt or pepper."
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "image": "https://victorygardeners.com/wp-content/uploads/2017/03/banana-pepper-e1616729195936.jpg",
+      "about": "The banana pepper is a mild, medium-sized chili pepper with a tangy, slightly sweet taste. It is not considered a hot pepper, offering either no heat or a slight tingle. Compared to the mildest jalapeno pepper, it is 5 times milder, if offering any heat at all. Also known as the yellow wax pepper or banana chili, the Banana Pepper has a mild, sweet taste that is very popular on many types of foods. It is commonly eaten on pizza, in Greek salads, on sandwiches, or stuffed with meat and/or cheese. They also add a bit of sweetness to salsa and an interesting flavor, while other peppers add the heat. They may be pickled or used fresh. Pickled banana peppers are very popular, often confused for pepperoncini peppers. As the name suggests, it is typically a bright yellow or yellow-green, but they may mature to orange or red if left to ripen."
+    },
+    {
+      "id": 6,
+      "name": "Anaheim",
+      "image": "https://victorygardeners.com/wp-content/uploads/2017/03/Anaheim-Chili.png",
+      "about": "As the name suggests, Anaheim peppers are named after a city in California. The farmer Emilio Ortego (of Mexican food fame!) brought them to California via New Mexico. They are very similar to Hatch chile peppers. In fact, the two peppers started life as the same thing. Because one is cultivated in California and one in New Mexico, they taste slightly different. The temperature, soil and climate of the two places differ, creating variations in the flavor of the peppers. An Anaheim pepper is medium in size, averaging six to ten inches long. They are typically used in cooking when they are still green. You will find them under a variety of names, such as New Mexico peppers, California chili and Magdalena. If the peppers are left on the plant, they will continue to ripen to a red color. Red Anaheim peppers are usually called California red chiles, or chili Colorado. "
+    },
+    {
+      "id": 7,
+      "name": "Poblano",
+      "image": "https://thekitchencommunity.org/wp-content/uploads/2021/06/Substitutes-For-Poblano-Peppers-That-Still-Pack-A-Punch.jpg",
+      "about": "Poblanos (pronounced poh-blah-nos) are mild chili peppers named after the Mexican state of Puebla where they were first grown. They’re one of the most popular peppers used in Mexican and Tex-Mex cooking because they’re not very spicy, but have a really great flavor, especially when roasted! Poblanos are dark green in color, wide at the stem and narrow along the length of the pepper. When they’re mature, they’re about four inches long and two inches wide. When left to fully ripen and dry out, the dehydrated and dried poblano peppers are called ancho chiles. Both fresh poblanos and their dried counterparts are commonly carried in grocery stores throughout the United States. Fresh poblanos are typically found near all the other fresh produce, while whole dried ancho chiles are usually in the specialty hispanic foods aisle or in the spice aisle as ground ancho chili powder."
+    },
+    {
+      "id": 8,
+      "name": "Chocolate Moruga",
+      "image": "https://cdn.shopify.com/s/files/1/0915/1060/products/Chocolate-Trinidad-Moruga-Scorpion-hot-pepper-pepper-joes_600x.jpg?v=1572288518",
+      "about": "Their heat index numbers may be the same, but there’s a definite taste difference between the Trinidad Moruga Scorpion and the sub-variety, the Trinidad Scorpion Chocolate. One that’s reflected in its sweet, sweet name. It’s a mellower, less acidic flavor with smoky undertones and a hint of earthy sweetness. But don’t let that mellowing fool you. This is a super-hot pepper with fangs (1,200,000 to 2,000,000 Scoville heat units) — long, pointy fangs that’ll bite deep and hold on for a long, long time"
+    }
+  ],
+  "emailList": [
+    {
+      "id": 1,
+      "name": "",
+      "email": ""
+    }
+    
+  ]
+}
